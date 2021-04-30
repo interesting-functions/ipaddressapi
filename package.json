@@ -1,5 +1,5 @@
 {
-  "name": "iphelper",
+  "name": "ipaddressapi",
   "version": "1.0.0",
   "description": "A node.js NPM package to provide you with IP data",
   "main": "index.js",
