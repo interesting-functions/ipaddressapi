@@ -1,5 +1,5 @@
 {
-  "name": "iptools",
+  "name": "iphelper",
   "version": "1.0.0",
   "description": "A node.js NPM package to provide you with IP data",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/milanmdev/iptools.git"
+    "url": "git+https://github.com/milanmdev/iphelper.git"
   },
   "engines": {
     "node": "14.x"
@@ -27,7 +27,7 @@
   "author": "Milan Mehra",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/milanmdev/iptools/issues"
+    "url": "https://github.com/milanmdev/iphelper/issues"
   },
-  "homepage": "https://npmjs.org/iptools"
+  "homepage": "https://npmjs.org/iphelper"
 }
