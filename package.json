@@ -1,0 +1,33 @@
+{
+  "name": "iptools",
+  "version": "1.0.0",
+  "description": "A node.js NPM package to provide you with IP data",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ip": "^1.1.5",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milanmdev/iptools.git"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "keywords": [
+    "ip",
+    "tools",
+    "nodejs"
+  ],
+  "author": "Milan Mehra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milanmdev/iptools/issues"
+  },
+  "homepage": "https://npmjs.org/iptools"
+}
